@@ -1,2 +1,2 @@
 # Hadoop-Temperature-Demo
-Run at idea
+Run by idea
